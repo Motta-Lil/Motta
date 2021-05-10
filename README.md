@@ -1,2 +1,0 @@
-# Motta
-Scripts e Bases.
